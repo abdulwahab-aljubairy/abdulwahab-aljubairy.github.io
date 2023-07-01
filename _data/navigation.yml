@@ -1,10 +1,16 @@
 # main links links
 main:
+
+  - title: "About Me"
+    url: /talks/   
+
+  - title: "News"
+    url: /talks/   
+    
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+   
 
   - title: "Teaching"
     url: /teaching/    
