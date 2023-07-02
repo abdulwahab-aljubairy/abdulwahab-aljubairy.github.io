@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Abdulwahab Aljubairy"
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   bio              : "Assistant Professor"
   location         : "Al.Leith, Makkah, Saudi Arabia"
   employer         : Umm Al.Qura University
