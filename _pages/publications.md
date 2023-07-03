@@ -7,7 +7,7 @@ author_profile: true
 Refereed Journal Articles
 ----------------
   
-- Dai Hoang Tran, Wei Emma Zhang, and Quan Z. Sheng, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran and Khoa L.D. Nguyen, 2021. <em>`HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks`</em>. Neural Computing and Applications, pp.1-17. Springer.
+- <span style="font-size:12px">Dai Hoang Tran, Wei Emma Zhang, and Quan Z. Sheng, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran and Khoa L.D. Nguyen, 2021. <em>HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks</em>. Neural Computing and Applications, pp.1-17. Springer.</span>
   
 - <em>Memory Management via Ownership Concept Rust and Swift: Experimental Study</em>, Elaf Alhazmi, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, International Journal of Computer Applications, 183(22), 2021.
   
