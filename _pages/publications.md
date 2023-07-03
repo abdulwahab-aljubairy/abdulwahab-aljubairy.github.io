@@ -6,9 +6,8 @@ author_profile: true
 ---
 Refereed Journal Articles
 ----------------
-#- <em>HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks</em>, Dai Hoang Tran, Quan Z. Sheng, Wei Emma Zhang, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran, and Nguyen Lu Dang Khoa, Neural Computing and Applications, 2021, 10.1007/s00521-020-05667-z
   
-- Dai Hoang Tran, Wei Emma Zhang, and Quan Z. Sheng, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran and Khoa L.D. Nguyen, 2021. <em>HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks</em>. Neural Computing and Applications, pp.1-17. Springer.
+- Dai Hoang Tran, Wei Emma Zhang, and Quan Z. Sheng, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran and Khoa L.D. Nguyen, 2021. <em>`HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks`</em>. Neural Computing and Applications, pp.1-17. Springer.
   
 - <em>Memory Management via Ownership Concept Rust and Swift: Experimental Study</em>, Elaf Alhazmi, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, International Journal of Computer Applications, 183(22), 2021.
   
