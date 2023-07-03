@@ -19,6 +19,8 @@ Refereed Conference Proceedings
 -----------------------
 - <span style="font-size:14px"><span style="background-color: #F2F3F4"><em>Towards a Deep Learning-driven Service Discovery Framework for the Social Internet of Things: A Context-aware Approach</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, Wei Emma Zhang, and Quan Z. Sheng, Dai Hoang Tran.  In Proceedings of the 22nd International Conference on Web Information Systems Engineering (WISE), Melbourne, Australia, October 26-29, 2021. IEEE.</span>
 
+- <span style="font-size:15px"><em>Real-time Investigation of Flight Delays Based on the Internet of Things Data</em>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Shemshadi, A. and Sheng, Q.Z.  In Advanced Data Mining and Applications: 12th International Conference, ADMA 2016, Gold Coast, QLD, Australia, December 12-15, 2016, Proceedings 12 (pp. 788-800). Springer International Publishing.</span>
+- 
 - <span style="font-size:16px"><em>Real-time Investigation of Flight Delays Based on the Internet of Things Data</em>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Shemshadi, A. and Sheng, Q.Z.  In Advanced Data Mining and Applications: 12th International Conference, ADMA 2016, Gold Coast, QLD, Australia, December 12-15, 2016, Proceedings 12 (pp. 788-800). Springer International Publishing.</span>![](/images/ADMA16 copy.png)
 
 Refereed Book Chapters
