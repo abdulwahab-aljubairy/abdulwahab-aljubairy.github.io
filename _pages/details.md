@@ -4,8 +4,9 @@ title: ""
 ---
 Education
 -----------
-- 2022: Obtained an Aisstant Professor position at Umm Al.Qura University.
-- 2022: Obtained a PhD in Computer Science from Macquarie University. 
+- King Abdulaziz University
+- The University of Adelaide
+- Macquarie University
 
 
 Work Experience
