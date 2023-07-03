@@ -15,4 +15,4 @@ Conference Proceedings
 
 Refereed Book Chapter
 ---------------------
-Towards a Deep Learning-driven Service Discovery Framework for the Social Internet of Things: A Context-aware Approach, Adnan Mahmood, Wei Emma Zhang , Quan Z. Sheng, Sarah Ali Siddiqui and <span style="color:red">Abdulwahab Aljubairy</span>, Security, Privacy and Trust in the IoT Environment. pp. 203-226. Springer.2019, 10.1007/978-3-030-18075-1_10
+Towards a Deep Learning-driven Service Discovery Framework for the Social Internet of Things: A Context-aware Approach, Adnan Mahmood, Wei Emma Zhang, Quan Z. Sheng, Sarah Ali Siddiqui and <span style="color:red">Abdulwahab Aljubairy</span>, Security, Privacy and Trust in the IoT Environment. pp. 203-226. Springer.2019, 10.1007/978-3-030-18075-1_10
