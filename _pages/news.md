@@ -1,1 +1,4 @@
-test
+---
+permalink: /news/
+title: "News"
+---
