@@ -2,8 +2,12 @@
 permalink: /details/
 title: ""
 ---
-# Education:
-## BS:
-### King Abdulaziz
-## Master:
-### The Unverity of Adelaide
+Education
+-----------
+- 2022: Obtained an Aisstant Professor position at Umm Al.Qura University.
+- 2022: Obtained a PhD in Computer Science from Macquarie University. 
+
+
+Work Experience
+---------------
+To be Added!
