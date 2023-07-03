@@ -4,7 +4,7 @@ main:
   - title: "News"
     url: /news/   
 
-   - title: "About Me"
+  - title: "About Me"
     url: /details/
     
   - title: "Publications"
