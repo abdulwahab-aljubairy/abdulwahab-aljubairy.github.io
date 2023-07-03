@@ -8,7 +8,14 @@ Education
 - The University of Adelaide
 - Macquarie University
 
+Work & Academic Activities
+---------------
+To be Added!
 
-Work Experience
+Skills
+---------------
+To be Added!
+
+Awards & Achievements
 ---------------
 To be Added!
