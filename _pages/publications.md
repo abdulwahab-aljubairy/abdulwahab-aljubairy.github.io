@@ -7,7 +7,7 @@ author_profile: true
 Refereed Journal Articles
 ----------------
 <style>
-td, th {
+td, th, tr {
    border: none!important;
 }
 </style>
