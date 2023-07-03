@@ -1,5 +1,6 @@
 ---
 permalink: /details/
+title: ""
 ---
 # Education:
 ## BS:
