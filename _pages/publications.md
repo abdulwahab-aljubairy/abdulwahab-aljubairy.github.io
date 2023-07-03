@@ -7,7 +7,7 @@ author_profile: true
 Journal Article
 ----------------
 
--The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment, Ahoud Alhazmi, Rafika Maaroufi and <span style="color:red">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.
+- The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment, Ahoud Alhazmi, Rafika Maaroufi and <span style="color:red">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.
 
 Conference Proceedings
 -----------------------
@@ -15,4 +15,4 @@ Conference Proceedings
 
 Refereed Book Chapter
 ---------------------
-Towards a Deep Learning-driven Service Discovery Framework for the Social Internet of Things: A Context-aware Approach, Adnan Mahmood, Wei Emma Zhang, Quan Z. Sheng, Sarah Ali Siddiqui and <span style="color:red">Abdulwahab Aljubairy</span>, Security, Privacy and Trust in the IoT Environment. pp. 203-226. Springer.2019, 10.1007/978-3-030-18075-1_10
+- Towards a Deep Learning-driven Service Discovery Framework for the Social Internet of Things: A Context-aware Approach, Adnan Mahmood, Wei Emma Zhang, Quan Z. Sheng, Sarah Ali Siddiqui and <span style="color:red">Abdulwahab Aljubairy</span>, Security, Privacy and Trust in the IoT Environment. pp. 203-226. Springer.2019, 10.1007/978-3-030-18075-1_10
