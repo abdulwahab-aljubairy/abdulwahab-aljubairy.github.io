@@ -17,7 +17,7 @@ Refereed Journal Articles
 
 Refereed Conference Proceedings
 -----------------------
-- <span style="font-size:16px"><span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, Wei Emma Zhang, and Quan Z. Sheng, Dai Hoang Tran, 2021. <em>Towards a Deep Learning-driven Service Discovery Framework for the Social Internet of Things: A Context-aware Approach</em>. In Proceedings of the 22nd International Conference on Web Information Systems Engineering (WISE), Melbourne, Australia, October 26-29. IEEE.</span>
+- <span style="font-size:16px"><em>Towards a Deep Learning-driven Service Discovery Framework for the Social Internet of Things: A Context-aware Approach</em>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, Wei Emma Zhang, and Quan Z. Sheng, Dai Hoang Tran.  In Proceedings of the 22nd International Conference on Web Information Systems Engineering (WISE), Melbourne, Australia, October 26-29, 2021. IEEE.</span>
 
 - <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Shemshadi, A. and Sheng, Q.Z., 2016. <em>Real-time investigation of flight delays based on the internet of things data</em>. In Advanced Data Mining and Applications: 12th International Conference, ADMA 2016, Gold Coast, QLD, Australia, December 12-15, 2016, Proceedings 12 (pp. 788-800). Springer International Publishing.![](/images/ADMA16 copy.png)
 
