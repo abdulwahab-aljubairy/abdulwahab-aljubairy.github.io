@@ -7,7 +7,7 @@ author_profile: true
 Journal Article
 ----------------
 
-- <strong>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</strong>, Ahoud Alhazmi, Rafika Maaroufi and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.
+- <em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em>, Ahoud Alhazmi, Rafika Maaroufi and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.
 
 Conference Proceedings
 -----------------------
