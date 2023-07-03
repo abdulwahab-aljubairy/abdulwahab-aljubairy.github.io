@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Journal Article
+Refereed Journal Articles
 ----------------
 #- <em>HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks</em>, Dai Hoang Tran, Quan Z. Sheng, Wei Emma Zhang, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran, and Nguyen Lu Dang Khoa, Neural Computing and Applications, 2021, 10.1007/s00521-020-05667-z
   
@@ -16,10 +16,10 @@ Journal Article
   
 - <em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em>, Ahoud Alhazmi, Rafika Maaroufi and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.
 
-Conference Proceedings
+Refereed Conference Proceedings
 -----------------------
 - <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Shemshadi, A. and Sheng, Q.Z., 2016. <em>Real-time investigation of flight delays based on the internet of things data</em>. In Advanced Data Mining and Applications: 12th International Conference, ADMA 2016, Gold Coast, QLD, Australia, December 12-15, 2016, Proceedings 12 (pp. 788-800). Springer International Publishing.![](/images/ADMA16 copy.png)
 
-Refereed Book Chapter
+Refereed Book Chapters
 ---------------------
 - Towards a Deep Learning-driven Service Discovery Framework for the Social Internet of Things: A Context-aware Approach, Adnan Mahmood, Wei Emma Zhang, Quan Z. Sheng, Sarah Ali Siddiqui and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Security, Privacy and Trust in the IoT Environment. pp. 203-226. Springer.2019, 10.1007/978-3-030-18075-1_10
