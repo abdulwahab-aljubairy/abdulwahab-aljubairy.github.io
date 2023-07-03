@@ -2,7 +2,7 @@
 main:
 
   - title: "About Me"
-    url: /talks/   
+    url: /aboutme/   
 
   - title: "News"
     url: /news/   
