@@ -15,4 +15,4 @@ Recent News
 
 Short Bio
 ---------
-To be Added!
+I am currently an Assistant Professor at the Computer Science department, Umm Al-Qura University. I obtained PhD from School of Computer Science, Macquarie University. I also have two years industry experience as an IT specialist.
