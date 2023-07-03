@@ -1,9 +1,5 @@
 # main links links
 main:   
-
-  #- title: "News"
-  #  url: /news/   
-
   - title: "About Me"
     url: /details/
     
