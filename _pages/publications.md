@@ -6,7 +6,12 @@ author_profile: true
 ---
 Journal Article
 ----------------
-
+- <em>HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks</em>, Dai Hoang Tran, Quan Z. Sheng, Wei Emma Zhang, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran, and Nguyen Lu Dang Khoa, Neural Computing and Applications, 2021, 10.1007/s00521-020-05667-z
+  
+- <em>Memory Management via Ownership Concept Rust and Swift: Experimental Study</em>, Elaf Alhazmi, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, International Journal of Computer Applications, 183(22), 2021.
+  
+- <em>A System for Effectively Predicting Flight Delays based on IoT Data</em>, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Wei Emma Zhang, Ali Shemshadi, Adnan Mahmood and Quan Z. Sheng, Computing, 102(9), 2020, 10.1007/s00607-020-00794-w
+  
 - <em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em>, Ahoud Alhazmi, Rafika Maaroufi and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.
 
 Conference Proceedings
