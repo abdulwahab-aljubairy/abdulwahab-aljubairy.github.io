@@ -24,7 +24,8 @@ blockquote {
 
 |<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>A System for Effectively Predicting Flight Delays based on IoT Data</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Wei Emma Zhang, Ali Shemshadi, Adnan Mahmood and Quan Z. Sheng, Computing, 102(9), 2020. [Springer] (https://link.springer.com/article/10.1007/s00607-020-00794-w).</span> |  ![](/images/computing20.png?cropResize=50,50)
 
-|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em></span>. Ahoud Alhazmi, Rafika Maaroufi and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.</span> | <div style="width: 60%; height: 60%"> ![](/images/KAU19.png)</dev>
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em></span>. Ahoud Alhazmi, Rafika Maaroufi and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.<img src="[https://user-images.githubusercontent.com/41547742/195372022-4e48d086-7af3-4f5a-a871-72522f3bde9b.jpg](https://github.com/abdulwahab-aljubairy/abdulwahab-aljubairy.github.io/blob/master/images/KAU19.png)" width=100px height=100px>
+
   
 
 Refereed Conference Proceedings
