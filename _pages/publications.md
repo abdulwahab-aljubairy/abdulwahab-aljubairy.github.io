@@ -28,6 +28,12 @@ Refereed Conference Proceedings
 |] * <span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Real-time Investigation of Flight Delays Based on the Internet of Things Data</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Shemshadi, A. and Sheng, Q.Z.  In Proceedings of the 12th International Conference on Advanced Data Mining and Applications (ADMA), Gold Coast, QLD, Australia, December 12-15, 2016. Springer.</span> |]  ![](/images/ADMA16n.png) {% newline %}
 {% endstripnewlines %}
 
+{% stripnewlines %}
+|--------|------- {% newline %}
+| content [| content [{% newline %}
+|**Total**|**Total**{% newline %}
+{% endstripnewlines %}
+
 
 Refereed Book Chapters
 ---------------------
