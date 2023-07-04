@@ -22,9 +22,9 @@ blockquote {
 
 |<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Memory Management via Ownership Concept Rust and Swift: Experimental Study</em></span>. Elaf Alhazmi, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, [International Journal of Computer Applications](https://www.ijcaonline.org/archives/volume183/number22/alhazmi-2021-ijca-921572.pdf), 183(22), 2021.</span> |  ![](/images/owner.png?cropResize=50,50)
 
-|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>A System for Effectively Predicting Flight Delays based on IoT Data</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Wei Emma Zhang, Ali Shemshadi, Adnan Mahmood and Quan Z. Sheng, Computing, 102(9), 2020. [Springer] (https://link.springer.com/article/10.1007/s00607-020-00794-w).</span> |  ![](/images/WISE21.png?cropResize=50,50)
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>A System for Effectively Predicting Flight Delays based on IoT Data</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Wei Emma Zhang, Ali Shemshadi, Adnan Mahmood and Quan Z. Sheng, Computing, 102(9), 2020. [Springer] (https://link.springer.com/article/10.1007/s00607-020-00794-w).</span> |  ![](/images/computing20.png?cropResize=50,50)
 
-|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em></span>. Ahoud Alhazmi, Rafika Maaroufi and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.</span> |  ![](/images/WISE21.png?cropResize=50,50)
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em></span>. Ahoud Alhazmi, Rafika Maaroufi and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.</span> |  ![](/images/KAU19.png?cropResize=50,50)
   
 
 Refereed Conference Proceedings
