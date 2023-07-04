@@ -31,23 +31,7 @@ Refereed Conference Proceedings
 -----------------------
 
 | * <span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Towards a Deep Learning-driven Service Discovery Framework for the Social Internet of Things: A Context-aware Approach</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, Wei Emma Zhang, and Quan Z. Sheng, Dai Hoang Tran.  In Proceedings of the 22nd International Conference on Web Information Systems Engineering (WISE), Melbourne, Australia, October 26-29, 2021. IEEE.</span> |  ![](/images/WISE21.png)
-| * <span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Real-time Investigation of Flight Delays Based on the Internet of Things Data</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Shemshadi, A. and Sheng, Q.Z.  In Proceedings of the 12th International Conference on Advanced Data Mining and Applications (ADMA), Gold Coast, QLD, Australia, December 12-15, 2016. Springer.</span> |  ![](/images/ADMA16n.png) 
-
-<table>
-    <thead>
-        <th>Paper</th>
-        <th>Content</th>
-    </thead>
-    <tbody>
-        <tr>
-            <td><span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Towards a Deep Learning-driven Service
-                Discovery Framework for the Social Internet of Things: A Context-aware Approach</em></span>. <span    style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, Wei Emma Zhang, and Quan Z. Sheng, Dai Hoang Tran.  In Proceedings of
-                the 22nd International Conference on Web Information Systems Engineering (WISE), Melbourne, Australia, October 26-29,
-                2021. IEEE.</span></td>
-            <td>![](/images/WISE21.png)</td>
-        </tr>
-    </tbody>
-</table>
+| * <span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Real-time Investigation of Flight Delays Based on the Internet of Things Data</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Shemshadi, A. and Sheng, Q.Z.  In Proceedings of the 12th International Conference on Advanced Data Mining and Applications (ADMA), Gold Coast, QLD, Australia, December 12-15, 2016. Springer.</span> | <span style="text-align: center;"> ![](/images/ADMA16n.png) </span>
 
 
 Refereed Book Chapters
