@@ -18,14 +18,14 @@ blockquote {
     padding-left: 10px;
 }
 </style>
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks</em></span>.Dai Hoang Tran, Wei Emma Zhang, and Quan Z. Sheng, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran and Khoa L.D. Nguyen, 2021. Neural Computing and Applications, pp.1-17. Springer.</span> |  ![](/images/WISE21.png?cropResize=50,50)
 
-- <span style="font-size:15px"><span style="background-color: #F2F3F4"><em>HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks</em></span>.Dai Hoang Tran, Wei Emma Zhang, and Quan Z. Sheng, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran and Khoa L.D. Nguyen, 2021. Neural Computing and Applications, pp.1-17. Springer.</span>
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Memory Management via Ownership Concept Rust and Swift: Experimental Study</em></span>. Elaf Alhazmi, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, International Journal of Computer Applications, 183(22), 2021.</span> |  ![](/images/WISE21.png?cropResize=50,50)
+
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>A System for Effectively Predicting Flight Delays based on IoT Data</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Wei Emma Zhang, Ali Shemshadi, Adnan Mahmood and Quan Z. Sheng, Computing, 102(9), 2020.</span> |  ![](/images/WISE21.png?cropResize=50,50)
+
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em></span>. Ahoud Alhazmi, Rafika Maaroufi and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.</span> |  ![](/images/WISE21.png?cropResize=50,50)
   
-- <span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Memory Management via Ownership Concept Rust and Swift: Experimental Study</em></span>. Elaf Alhazmi, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, International Journal of Computer Applications, 183(22), 2021.</span>
-  
-- <span style="font-size:15px"><span style="background-color: #F2F3F4"><em>A System for Effectively Predicting Flight Delays based on IoT Data</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Wei Emma Zhang, Ali Shemshadi, Adnan Mahmood and Quan Z. Sheng, Computing, 102(9), 2020.</span>
-  
-- <span style="font-size:15px"><span style="background-color: #F2F3F4"><em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em></span>. Ahoud Alhazmi, Rafika Maaroufi and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.</span>
 
 Refereed Conference Proceedings
 -----------------------
