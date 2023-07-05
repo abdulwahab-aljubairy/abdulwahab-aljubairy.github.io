@@ -18,7 +18,7 @@ blockquote {
     padding-left: 10px;
 }
 </style>
-|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks</em></span>.Dai Hoang Tran, Wei Emma Zhang, and Quan Z. Sheng, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran and Khoa L.D. Nguyen, 2021. Neural Computing and Applications, pp.1-17. [Springer](https://link.springer.com/article/10.1007/s00521-020-05667-z).</span> |  ![](/images/HeterJ.png)
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks</em></span>.Dai Hoang Tran, Wei Emma Zhang, and Quan Z. Sheng, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran and Khoa L.D. Nguyen, 2021. Neural Computing and Applications, pp.1-17. [Springer](https://link.springer.com/article/10.1007/s00521-020-05667-z).</span> |  ![](/images/HeterJ.png?cropResize=90,50)
 
 |<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Memory Management via Ownership Concept Rust and Swift: Experimental Study</em></span>. Elaf Alhazmi, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, [International Journal of Computer Applications](https://www.ijcaonline.org/archives/volume183/number22/alhazmi-2021-ijca-921572.pdf), 183(22), 2021.</span> |  ![](/images/owner.png?cropResize=40,50)
 
