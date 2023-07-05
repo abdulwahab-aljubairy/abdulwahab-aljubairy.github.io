@@ -25,6 +25,10 @@ Refereed Conference Proceedings
 |<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Real-time Investigation of Flight Delays Based on the Internet of Things Data</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Shemshadi, A. and Sheng, Q.Z.  In Proceedings of the 12th International Conference on Advanced Data Mining and Applications (ADMA), Gold Coast, QLD, Australia, December 12-15, 2016. [Springer](https://link.springer.com/chapter/10.1007/978-3-030-91560-5_35).</span> | <span style="text-align: center;"> ![](/images/ADMA16n.png?cropResize=90,50) </span>
 
 
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>HeteGraph: A Convolutional Framework for Graph Learning in Recommender Systems</em></span>. Dai Hoang Tran, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Quan Z. Sheng, Wei Emma Zhang, Nguyen H. Tran and Khoa L.D. Nguyen.  In Proceedings of the International Joint Conference on Neural Networks (IJCNN), Glasgow, United Kingdom, July 19-24, 2020. pp. 1–8. [IEEE](https://ieeexplore.ieee.org/document/9207078).</span> | <span style="text-align: center;"> ![](/images/ADMA16n.png?cropResize=90,50) </span>
+
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>The 10 Research Topics in the Internet of Things</em></span>. Wei Emma Zhang, and Quan Z. Sheng, Mahmood, A., Dai Hoang Tran, Munazza Zaib, Salma Abdalla Hamad, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, Subhash Sagar. and Congbo Ma.  In Proceedings of the 6th International Conference on Collaboration and Internet Computing (CIC), Atlanta, GA, USA, December 1-3, 2020. (pp. 34-43). [IEEE]([https://link.springer.com/chapter/10.1007/978-3-030-91560-5_35](https://ieeexplore.ieee.org/document/9319033)).</span> | <span style="text-align: center;"> ![](/images/ADMA16n.png?cropResize=90,50) </span>
+
 Refereed Journal Articles
 ----------------
 
