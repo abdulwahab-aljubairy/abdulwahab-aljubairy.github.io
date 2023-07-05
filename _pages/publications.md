@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Refereed Journal Articles
-----------------
 <style>
 table {
     border-collapse: collapse;
@@ -18,6 +16,18 @@ blockquote {
     padding-left: 10px;
 }
 </style>
+
+Refereed Conference Proceedings
+-----------------------
+
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Towards a Deep Learning-driven Service Discovery Framework for the Social Internet of Things: A Context-aware Approach</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, Wei Emma Zhang, and Quan Z. Sheng, Dai Hoang Tran.  In Proceedings of the 22nd International Conference on Web Information Systems Engineering (WISE), Melbourne, Australia, October 26-29, 2021. IEEE.</span> |  ![](/images/WISE21.png?cropResize=90,50)
+
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Real-time Investigation of Flight Delays Based on the Internet of Things Data</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Shemshadi, A. and Sheng, Q.Z.  In Proceedings of the 12th International Conference on Advanced Data Mining and Applications (ADMA), Gold Coast, QLD, Australia, December 12-15, 2016. [Springer](https://link.springer.com/chapter/10.1007/978-3-030-91560-5_35).</span> | <span style="text-align: center;"> ![](/images/ADMA16n.png?cropResize=90,50) </span>
+
+
+Refereed Journal Articles
+----------------
+
 |<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks</em></span>.Dai Hoang Tran, Wei Emma Zhang, and Quan Z. Sheng, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran and Khoa L.D. Nguyen, 2021. Neural Computing and Applications, pp.1-17. [Springer](https://link.springer.com/article/10.1007/s00521-020-05667-z).</span> |  ![](/images/HeterJ.png?cropResize=90,50)
 
 |<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Memory Management via Ownership Concept Rust and Swift: Experimental Study</em></span>. Elaf Alhazmi, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, [International Journal of Computer Applications](https://www.ijcaonline.org/archives/volume183/number22/alhazmi-2021-ijca-921572.pdf), 183(22), 2021.</span> |  ![](/images/owner.png?cropResize=90,50)
@@ -27,14 +37,6 @@ blockquote {
 |<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em></span>. Ahoud Alhazmi, Rafika Maaroufi and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.| ![](/images/KAU19.png?cropResize=90,50)
 
   
-
-Refereed Conference Proceedings
------------------------
-
-|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Towards a Deep Learning-driven Service Discovery Framework for the Social Internet of Things: A Context-aware Approach</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, Wei Emma Zhang, and Quan Z. Sheng, Dai Hoang Tran.  In Proceedings of the 22nd International Conference on Web Information Systems Engineering (WISE), Melbourne, Australia, October 26-29, 2021. IEEE.</span> |  ![](/images/WISE21.png?cropResize=90,50)
-
-|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Real-time Investigation of Flight Delays Based on the Internet of Things Data</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Shemshadi, A. and Sheng, Q.Z.  In Proceedings of the 12th International Conference on Advanced Data Mining and Applications (ADMA), Gold Coast, QLD, Australia, December 12-15, 2016. [Springer](https://link.springer.com/chapter/10.1007/978-3-030-91560-5_35).</span> | <span style="text-align: center;"> ![](/images/ADMA16n.png?cropResize=90,50) </span>
-
 
 Refereed Book Chapters
 ---------------------
