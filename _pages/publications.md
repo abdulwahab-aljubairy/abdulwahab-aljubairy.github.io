@@ -29,8 +29,8 @@ Refereed Conference Proceedings
     <td>![](/images/WISE21.png?cropResize=90,50)</td> 
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
+    <td><span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Deep News Recommendation with Contextual User Profiling and Multifaceted Article Representation</em></span>. Dai Hoang Tran, Salma Hamad, Munazza Zaib, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Quan Z. Sheng, Wei Emma Zhang, Nguyen H. Tran and Lu Dang Khoa Nguyen. In Proceedings of the 22nd International Conference on Web Information Systems Engineering (WISE), Melbourne, Australia, October 26-29, 2021. [IEEE](https://link.springer.com/chapter/10.1007/978-3-030-91560-5_17). <span style="color:#C0392B">Best Student Paper Runner Up</span></span></td>
+    <td> ![](/images/IJCNN20_2.png?cropResize=90,50)</td> 
   </tr>
 </table>
 
