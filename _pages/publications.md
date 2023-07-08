@@ -19,9 +19,8 @@ blockquote {
 
 Refereed Conference Proceedings
 -----------------------
- | Default Header | Left Align | 
-2| -------------- | :---------: |
-
+| Default Header | Left Align | 
+| -------------- | :---------: |
 
 
 |<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Towards a Deep Learning-driven Service Discovery Framework for the Social Internet of Things: A Context-aware Approach</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, Wei Emma Zhang, and Quan Z. Sheng, Dai Hoang Tran. In Proceedings of the 22nd International Conference on Web Information Systems Engineering (WISE), Melbourne, Australia, October 26-29, 2021. IEEE.</span> |  ![](/images/WISE21.png?cropResize=90,50)
