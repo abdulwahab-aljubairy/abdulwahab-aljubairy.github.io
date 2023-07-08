@@ -19,20 +19,8 @@ blockquote {
 
 Refereed Conference Proceedings
 -----------------------
-<table style="width:100%">
-  <tr>
-    <th style="width:70%"></th>
-    <th></th> 
-  </tr>
-  <tr>
-    <td><span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Towards a Deep Learning-driven Service Discovery Framework for the Social Internet of Things: A Context-aware Approach</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, Wei Emma Zhang, and Quan Z. Sheng, Dai Hoang Tran. In Proceedings of the 22nd International Conference on Web Information Systems Engineering (WISE), Melbourne, Australia, October 26-29, 2021. IEEE.</td>
-    <td></td> 
-  </tr>
-  <tr>
-    <td><span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Deep News Recommendation with Contextual User Profiling and Multifaceted Article Representation</em></span>. Dai Hoang Tran, Salma Hamad, Munazza Zaib, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Quan Z. Sheng, Wei Emma Zhang, Nguyen H. Tran and Lu Dang Khoa Nguyen. In Proceedings of the 22nd International Conference on Web Information Systems Engineering (WISE), Melbourne, Australia, October 26-29, 2021. [IEEE](https://link.springer.com/chapter/10.1007/978-3-030-91560-5_17). <span style="color:#C0392B">Best Student Paper Runner Up</span></span></td>
-    <td></td> 
-  </tr>
-</table>
+ | Default Header | Left Align | 
+2| -------------- | :---------: |
 
 
 
