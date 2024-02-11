@@ -2,6 +2,10 @@
 permalink: /ProfActv/
 title: ""
 ---
+- Technical Program Committee (TPC) Member, the International Joint Conference on Neural Networks (IJCNN 2024),Yokohama, Japan, June 30-July 5, 2024
+- Reviewer, Journal of Computing, Springer, 2024.
+- Technical Program Committee (TPC) Member, the International Joint Conference on Neural Networks (IJCNN 2023), Gold Coast, Australia, June 18-23, 2023
+- PC Member, the 33rd Australian Conference on Information Systems (ACIS 2022), Melbourne, Australia, December 4 -7, 2022.
 - Program Committee (PC) Member, the 33rd Australian Conference on Information Systems (ACIS 2022), Melbourne, Australia, December 4 -7, 2022.
 - Program Committee (PC) Member, the 18th International Conference on Advanced Data Mining and Applications (ADMA 2022), Melbourne, Australia, November 28-30, 2022.
 - Program Committee (PC) Member, the 13th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN 2022), Leuven, Belgium, October 26-28, 2022.
