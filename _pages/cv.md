@@ -1,6 +1,6 @@
 ---
 permalink: /CV/
-title: "v"
+title: ""
 ---
 
 
