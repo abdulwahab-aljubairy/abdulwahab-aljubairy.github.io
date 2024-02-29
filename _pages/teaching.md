@@ -5,20 +5,24 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Computer Programming
+2024
 ---
+- Advanced Programming
+- Computer Programing
+- Computer Programming for Engineering
+- Mobile Application Development
+- Object-Oriented Programming
 
-Advanced Programming
+2023
 ---
+- Advanced Programming
+- Computer Prograaming
+- Computational Thinking and Problem Solving
+- Objected-Orientes Programming
 
-Data Structure
+2022
 ---
-
-Object Oriented Programming
----
-
-Computation Thinking and Problem Solving
----
-
-Programming Languages
----
+- Advanced Programming
+- Computer Programming
+- Data Structure
+- Object-Oriented Programming
