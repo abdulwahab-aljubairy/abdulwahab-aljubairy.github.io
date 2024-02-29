@@ -8,6 +8,10 @@ redirect_from:
 ---
 Recent News
 -----------
+- 2024: Organisation Committe member at ADMA 2024
+- 2024: TBC member at IJCNN 2024
+- 2023: PC member at ADMA 2023
+- 2023: TBC member at IJCNN 2023
 - 2022: Obtained an Aisstant Professor position at Umm Al.Qura University.
 - 2022: Obtained a PhD in Computer Science from Macquarie University. 
 
