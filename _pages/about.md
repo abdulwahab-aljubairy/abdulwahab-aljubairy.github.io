@@ -14,4 +14,5 @@ Recent News
 
 Short Bio
 ---------
-Abdulwahab Aljubairy (Member, IEEE) earned a Doctor of Philosophy (PhD) in computer science from Macquarie University in 2022. I am an assistant professor in the College of Engineering and Computing at Al-Lith, Umm Al-Qura University. I have written and co-written numerous academic publications. I have also worked in various capacities on numerous conference committees and international journals, including as a member of the Program Committee (PC) and a reviewer. Moreover, I also have two years of industry experience as an IT specialist.
+Dr. Abdulwahab Aljubairy, a member of IEEE, obtained a Doctor of Philosophy (PhD) in computer science from Macquarie University in 2022. He has the position of assistant professor at Umm Al-Qura University in the Faculty of Engineering and Computing at Al.lith Campus. He has authored and collaborated on numerous academic articles. Dr. Abdulwahab has extensive experience working on many conference committees and international journals, serving as, Organisation Committee member,  a Programme Committee (PC) member, and a reviewer. He also have two years of industry experience as an IT specialist.
+
