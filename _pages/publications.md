@@ -17,6 +17,16 @@ blockquote {
 }
 </style>
 
+Refereed Journal Articles
+----------------
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks</em></span>.Dai Hoang Tran, Wei Emma Zhang, and Quan Z. Sheng, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran and Khoa L.D. Nguyen, 2021. Neural Computing and Applications, pp.1-17. [Springer](https://link.springer.com/article/10.1007/s00521-020-05667-z).</span> | <img src="../images/HeterJ.png"   height="300" width="600">
+
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks</em></span>.Dai Hoang Tran, Wei Emma Zhang, and Quan Z. Sheng, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran and Khoa L.D. Nguyen, 2021. Neural Computing and Applications, pp.1-17. [Springer](https://link.springer.com/article/10.1007/s00521-020-05667-z).</span> | <img src="../images/HeterJ.png"   height="300" width="600">
+
+
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>A System for Effectively Predicting Flight Delays based on IoT Data</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Wei Emma Zhang, Ali Shemshadi, Adnan Mahmood and Quan Z. Sheng, Computing, 102(9), 2020. [Springer](https://link.springer.com/article/10.1007/s00607-020-00794-w).</span> | <img src="../images/computing20.png"   height="300" width="600">
+
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em></span>. Ahoud Alhazmi, Rafika Maaroufi and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.| <img src="../images/KAU19.png"   height="300" width="600">
 
 Refereed Conference Proceedings
 -----------------------      
@@ -40,18 +50,6 @@ Refereed Conference Proceedings
 |<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>The 10 Research Topics in the Internet of Things</em></span>. Wei Emma Zhang, and Quan Z. Sheng, Mahmood, A., Dai Hoang Tran, Munazza Zaib, Salma Abdalla Hamad, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Ahoud Alhazmi, Subhash Sagar. and Congbo Ma. In Proceedings of the 6th International Conference on Collaboration and Internet Computing (CIC), Atlanta, GA, USA, December 1-3, 2020. (pp. 34-43). [IEEE](https://ieeexplore.ieee.org/document/9319033).</span> | <img src="../images/cic20.png"   height="300" width="600">
 
 |<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Real-time Investigation of Flight Delays Based on the Internet of Things Data</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Shemshadi, A. and Sheng, Q.Z. In Proceedings of the 12th International Conference on Advanced Data Mining and Applications (ADMA), Gold Coast, QLD, Australia, December 12-15, 2016. [Springer](https://link.springer.com/chapter/10.1007/978-3-030-91560-5_35).</span> | <span style="text-align: center;"> <img src="../images/ADMA16.png"   height="300" width="600">
-
-Refereed Journal Articles
-----------------
-
-|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>HeteGraph: Graph Learning in Recommender Systems via Graph Convolutional Networks</em></span>.Dai Hoang Tran, Wei Emma Zhang, and Quan Z. Sheng, <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Munazza Zaib, Salma Abdalla Hamad, Nguyen H. Tran and Khoa L.D. Nguyen, 2021. Neural Computing and Applications, pp.1-17. [Springer](https://link.springer.com/article/10.1007/s00521-020-05667-z).</span> | <img src="../images/HeterJ.png"   height="300" width="600">
-
-
-|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>A System for Effectively Predicting Flight Delays based on IoT Data</em></span>. <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Wei Emma Zhang, Ali Shemshadi, Adnan Mahmood and Quan Z. Sheng, Computing, 102(9), 2020. [Springer](https://link.springer.com/article/10.1007/s00607-020-00794-w).</span> | <img src="../images/computing20.png"   height="300" width="600">
-
-|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em></span>. Ahoud Alhazmi, Rafika Maaroufi and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.| <img src="../images/KAU19.png"   height="300" width="600">
-
-  
 
 Refereed Book Chapters
 ---------------------
